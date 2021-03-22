@@ -1,0 +1,80 @@
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.deps.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.dev.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csprojAssemblyReference.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfoInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfo.cs
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.genruntimeconfig.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.deps.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.dev.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csprojAssemblyReference.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfoInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfo.cs
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CoreCompileInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.genruntimeconfig.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CopyComplete
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.deps.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.dev.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csprojAssemblyReference.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfoInputs.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfo.cs
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CoreCompileInputs.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CopyComplete
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.genruntimeconfig.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.deps.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.dev.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csprojAssemblyReference.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfoInputs.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfo.cs
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CoreCompileInputs.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CopyComplete
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.deps.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.csproj.CopyComplete
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjBusiness\obj\Debug\netcoreapp3.1\pjBusiness.genruntimeconfig.cache

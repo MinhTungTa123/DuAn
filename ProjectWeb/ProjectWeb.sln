@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectWeb", "ProjectWeb\ProjectWeb.csproj", "{D133421E-A0B4-4049-B31D-0BB93BC3BF5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{1C4C4899-CF59-4A7E-A0C5-796405543AF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Leyer", "Business Leyer", "{00696D17-5C80-4E5F-B181-858A72B287B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess Leyer", "DataAccess Leyer", "{56B04572-DD0D-4205-AD11-F1329ED5ADF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPI Leyer", "WebAPI Leyer", "{79A8B08B-4035-4885-AD74-C7CF0161C6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjBusiness", "pjBusiness\pjBusiness.csproj", "{B057C9F1-D402-4709-BBC7-510D8D65BB87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjDataAccess", "pjDataAccess\pjDataAccess.csproj", "{84B8FFEB-66E3-4B06-B946-314E38C7869C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjModels", "pjModels\pjModels.csproj", "{8F3F2286-87AB-4E61-94EE-206C99B44D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D133421E-A0B4-4049-B31D-0BB93BC3BF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D133421E-A0B4-4049-B31D-0BB93BC3BF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D133421E-A0B4-4049-B31D-0BB93BC3BF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D133421E-A0B4-4049-B31D-0BB93BC3BF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B057C9F1-D402-4709-BBC7-510D8D65BB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B057C9F1-D402-4709-BBC7-510D8D65BB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B057C9F1-D402-4709-BBC7-510D8D65BB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B057C9F1-D402-4709-BBC7-510D8D65BB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B8FFEB-66E3-4B06-B946-314E38C7869C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B8FFEB-66E3-4B06-B946-314E38C7869C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B8FFEB-66E3-4B06-B946-314E38C7869C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B8FFEB-66E3-4B06-B946-314E38C7869C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3F2286-87AB-4E61-94EE-206C99B44D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3F2286-87AB-4E61-94EE-206C99B44D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3F2286-87AB-4E61-94EE-206C99B44D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3F2286-87AB-4E61-94EE-206C99B44D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D133421E-A0B4-4049-B31D-0BB93BC3BF5D} = {79A8B08B-4035-4885-AD74-C7CF0161C6A9}
+		{B057C9F1-D402-4709-BBC7-510D8D65BB87} = {00696D17-5C80-4E5F-B181-858A72B287B9}
+		{84B8FFEB-66E3-4B06-B946-314E38C7869C} = {56B04572-DD0D-4205-AD11-F1329ED5ADF8}
+		{8F3F2286-87AB-4E61-94EE-206C99B44D09} = {1C4C4899-CF59-4A7E-A0C5-796405543AF1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0B92D9-D28A-4159-B5FA-1E208C91907A}
+	EndGlobalSection
+EndGlobal

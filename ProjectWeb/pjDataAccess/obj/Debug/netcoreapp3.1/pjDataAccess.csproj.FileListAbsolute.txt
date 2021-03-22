@@ -1,0 +1,75 @@
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.deps.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.dev.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csprojAssemblyReference.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfoInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfo.cs
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CopyComplete
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.genruntimeconfig.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.deps.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.dev.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csprojAssemblyReference.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfoInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfo.cs
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CoreCompileInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CopyComplete
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.genruntimeconfig.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.deps.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.dev.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csprojAssemblyReference.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfoInputs.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfo.cs
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CoreCompileInputs.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CopyComplete
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.genruntimeconfig.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.deps.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.dev.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csprojAssemblyReference.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfoInputs.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfo.cs
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CopyComplete
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.deps.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CopyComplete
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.genruntimeconfig.cache

@@ -1,0 +1,393 @@
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.exe
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.deps.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.dev.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csprojAssemblyReference.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfoInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfo.cs
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.Manifest.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.xml
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWeb.styles.css
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.genruntimeconfig.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.exe
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.deps.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.dev.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csprojAssemblyReference.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfoInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfo.cs
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CoreCompileInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.Manifest.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.xml
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWeb.styles.css
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.RazorTargetAssemblyInfo.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.genruntimeconfig.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.exe
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.deps.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.dev.json
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csprojAssemblyReference.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfoInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfo.cs
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.Manifest.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.xml
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWeb.styles.css
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CopyComplete
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\Viet Dep Trai\Desktop\Project10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.genruntimeconfig.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CopyComplete
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.exe
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.deps.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.dev.json
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csprojAssemblyReference.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfoInputs.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfo.cs
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CoreCompileInputs.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.Manifest.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.xml
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWeb.styles.css
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.RazorTargetAssemblyInfo.cache
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CopyComplete
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.dll
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.pdb
+D:\LearnC#\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.genruntimeconfig.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.exe
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.deps.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.dev.json
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csprojAssemblyReference.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfoInputs.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfo.cs
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.Manifest.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.xml
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWeb.styles.css
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.RazorTargetAssemblyInfo.cache
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CopyComplete
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\porta\Desktop\git\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.exe
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.deps.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjBusiness.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjModels.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\staticwebassets\ProjectWeb.StaticWebAssets.xml
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjectWeb.styles.css
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.csproj.CopyComplete
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.dll
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.pdb
+C:\Users\Admin\Desktop\ThuMucCode\CodeProject10_03_2021\Project10-03-2021\ProjectWeb\ProjectWeb\obj\Debug\netcoreapp3.1\ProjectWeb.genruntimeconfig.cache

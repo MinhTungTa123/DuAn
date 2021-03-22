@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjBusiness\\pjBusiness.csproj": {}
+  },
+  "projects": {
+    "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjBusiness\\pjBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjBusiness\\pjBusiness.csproj",
+        "projectName": "pjBusiness",
+        "projectPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjBusiness\\pjBusiness.csproj",
+        "packagesPath": "C:\\Users\\Minh Tung\\.nuget\\packages\\",
+        "outputPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Minh Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjDataAccess\\pjDataAccess.csproj": {
+                "projectPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjDataAccess\\pjDataAccess.csproj"
+              },
+              "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\pjModels.csproj": {
+                "projectPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\pjModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjDataAccess\\pjDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjDataAccess\\pjDataAccess.csproj",
+        "projectName": "pjDataAccess",
+        "projectPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjDataAccess\\pjDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Minh Tung\\.nuget\\packages\\",
+        "outputPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Minh Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\pjModels.csproj": {
+                "projectPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\pjModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\pjModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\pjModels.csproj",
+        "projectName": "pjModels",
+        "projectPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\pjModels.csproj",
+        "packagesPath": "C:\\Users\\Minh Tung\\.nuget\\packages\\",
+        "outputPath": "E:\\QTHT_DHCNTPHCM\\QTHT_DHCNTPHCM\\HK2-2020-2021\\THUCTAPDOANHNGHIEP\\LEARNC#\\Project10-03-2021\\ProjectWeb\\pjModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Minh Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
